@@ -1,7 +1,15 @@
 # Hi there, I'm R. Billiyan Mulkan Ghifari 👋
 
-## Study
-I am currently a master's student in computer science, with a keen interest in neural network methods and their optimizations, geographic information systems, as well as user interaction and experience.
+>  💻 Software Engginer
+>  [Study](https://img.shields.io/badge/Study-Computer%20Science-blue?style=flat-square&logo=google-scholar)  Master's Student in Computer Science
+
+[![Linkedin: Muhammad Adam](https://img.shields.io/badge/-Muhammad%20Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/)](https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ybiill)
+[![GitHub: @bangadam](https://img.shields.io/github/followers/ybiill?label=follow&style=social)](https://github.com/ybiill)
+[![Gmail: billy.funciona](https://img.shields.io/badge/Gmail-ybiill.dev-red)](mailto:billy.funciona@gmail.com)
+![](https://komarev.com/ghpvc/?username=ybiill)
+
+---
 
 ## About Me
 With over three years of experience as a software engineer, I am passionate about solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders. I am dedicated to exceeding expectations and thrive both as an individual contributor and as a part of a team.
