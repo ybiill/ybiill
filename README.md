@@ -2,7 +2,7 @@
 
 >  💻 Software Engginer
 > 
->  [Study](https://img.shields.io/badge/Study-Computer%20Science-blue?style=flat-square&logo=google-scholar) Master's Student
+>  ![Study](https://img.shields.io/badge/Study-Computer%20Science-blue?style=flat-square&logo=google-scholar&link=https://www.researchgate.net/profile/R-Billiyan-Ghifari) Master's Student
 
 [![Linkedin: R.Billiyan Mulkan Ghifari](https://img.shields.io/badge/-R.Billiyan%20Mulkan%20Ghifari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/)](https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ybiill)
