@@ -34,4 +34,4 @@ Feel free to reach out to me via email if you have ideas to share or just want t
 - Tools: Git, Docker
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/) | [Github Page]([https://[your-website]](https://billy-ghifari.github.io/))
+[LinkedIn](https://www.linkedin.com/in/r-billiyan-mulkan-ghifari/) | [Github Page](https://billy-ghifari.github.io/)
