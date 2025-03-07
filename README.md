@@ -1,4 +1,4 @@
-# Hi there, I'm R. Billiyan Mulkan Ghifari 👋
+# Hi there, I'm Billy 👋
 
 >  💻 Software Engginer
 >  ⚡ Master's Student in Computer Science
